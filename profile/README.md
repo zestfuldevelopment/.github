@@ -20,5 +20,4 @@ CLI, macOS app, and browser extension for **Claude Code**, **Cursor**, **Aider**
 
 - [shelldon](https://github.com/zestfuldevelopment/shelldon) — A Unix shell rebuilt from scratch in Rust with native AI integration
 - [flowstate](https://github.com/zestfuldevelopment/flowstate) — Task management CLI for AI agents
-- [claude-skills](https://github.com/zestfuldevelopment/claude-skills) — Reusable skills for Claude Code
 - [iterm2-client](https://github.com/zestfuldevelopment/iterm2-client) — Rust client for the iTerm2 scripting API
