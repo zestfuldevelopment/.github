@@ -4,20 +4,12 @@
   <img alt="Zestful Development" src="https://raw.githubusercontent.com/zestfuldevelopment/.github/main/assets/banner-light.svg" width="100%">
 </picture>
 
-We build developer tools that keep you in flow.
+### zterm
 
-### Zestful
+The terminal your agents can drive. Fast, GPU-accelerated, and native on macOS, Windows, and Linux. zterm gives agents a first-class way to discover panes, open sessions, and work alongside you.
 
-Real-time notifications for AI coding agents — know the moment your agent needs input, finishes a task, or hits a wall.
+zterm is in private beta. Everything about it lives at [zestful.dev](https://zestful.dev).
 
-CLI, macOS app, and browser extension for **Claude Code**, **Cursor**, **Aider**, and more.
+- [zestful-terminal-downloads](https://github.com/zestfuldevelopment/zestful-terminal-downloads) — release artifacts and the one-line installers
 
-- [zestful](https://github.com/zestfuldevelopment/zestful) — CLI & focus daemon
-- [zestful-website](https://github.com/zestfuldevelopment/zestful-website) — Product site at [zestful.dev](https://zestful.dev)
-- [homebrew-tap](https://github.com/zestfuldevelopment/homebrew-tap) — `brew install zestfuldevelopment/tap/zestful`
-
-### Other Projects
-
-- [shelldon](https://github.com/zestfuldevelopment/shelldon) — A Unix shell rebuilt from scratch in Rust with native AI integration
-- [flowstate](https://github.com/zestfuldevelopment/flowstate) — Task management CLI for AI agents
-- [iterm2-client](https://github.com/zestfuldevelopment/iterm2-client) — Rust client for the iTerm2 scripting API
+Questions or an invite: [support@zestful.dev](mailto:support@zestful.dev)
