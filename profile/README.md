@@ -12,4 +12,4 @@ zterm is in private beta. Everything about it lives at [zestful.dev](https://zes
 
 - [zestful-terminal-downloads](https://github.com/zestfuldevelopment/zestful-terminal-downloads) — release artifacts and the one-line installers
 
-Questions or an invite: [support@zestful.dev](mailto:support@zestful.dev)
+Questions or an invite: [Discord](https://discord.gg/K8USgYdR) or [support@zestful.dev](mailto:support@zestful.dev)
